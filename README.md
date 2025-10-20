@@ -1,4 +1,5 @@
 
+<img width="225" height="224" alt="HA HA HA" src="https://github.com/user-attachments/assets/13d2d02a-4b2d-47a6-9002-be5cfad73a18" />
 
 # 🎙️ Piadas Sintéticas
 

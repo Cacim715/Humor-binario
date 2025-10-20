@@ -1,5 +1,3 @@
-# Humor-binario
-kkk
 
 
 # 🎙️ Piadas Sintéticas
